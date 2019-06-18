@@ -1,4 +1,4 @@
-# quiz
+# quiz-vue
 
 A fancy quiz application made with Vue.js from a freeCodeCamp.org exercise, with additional features. It has been deployed here: [https://desolate-wildwood-84853.herokuapp.com/](https://desolate-wildwood-84853.herokuapp.com/).
 
